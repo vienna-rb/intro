@@ -1,0 +1,33 @@
+$primary-color: #eb811b;
+
+* {
+  margin: 0;
+  padding: 0;
+  display: block;
+}
+
+.images {
+  display: flex;
+  flex-direction: column;
+  height: 80vh;
+  overflow: hidden;
+}
+
+.images img {
+  width: 100%;
+  object-fit: cover;
+  flex: 1;
+  min-height: 0;
+}
+
+.highlight {
+  color: $primary-color;
+}
+
+.reveal blockquote {
+  border-left-style: solid;
+  border-left-width: 4px;
+  border-left-color: $primary-color;
+  padding-left: 1rem !important;
+  text-align: left;
+}
