@@ -11,6 +11,7 @@
 assets/demo
 components.d.ts
 composable-vue-cn
+dist
 dist-ssr
 docs/.vitepress/@slidev
 docs/.vitepress/cache
