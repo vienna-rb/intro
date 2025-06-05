@@ -20,9 +20,7 @@ layout: image
 image: /img/talks.webp
 ---
 
-<!--
-Intro
--->
+![Talks](/img/talks.webp)
 
 ---
 layout: two-cols
