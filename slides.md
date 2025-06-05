@@ -17,7 +17,7 @@ layout: intro
 
 ---
 layout: image
-image: /public/banner.webp
+image: /img/talks.webp
 ---
 
 <!--
