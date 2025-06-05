@@ -17,10 +17,8 @@ layout: intro
 
 ---
 layout: image
-image: /img/talks.webp
+image: /banner.webp
 ---
-
-![Talks](/img/talks.webp)
 
 ---
 layout: two-cols
