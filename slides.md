@@ -17,8 +17,12 @@ layout: intro
 
 ---
 layout: image
-image: /img/banner.webp
+image: /public/banner.webp
 ---
+
+<!--
+Intro
+-->
 
 ---
 layout: two-cols
