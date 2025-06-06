@@ -5,6 +5,7 @@ info: |
 
   Visit our website at ruby.wien
 transition: slide-left
+favicon: /img/icon-512.png
 defaults:
   layout: center
 mdc: true
