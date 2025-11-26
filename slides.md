@@ -1,19 +1,19 @@
 ---
-title: Vienna.rb #65
+title: Vienna.rb #66
 info: |
   Welcome to Vienna.rb!
 
   Visit our website at ruby.wien
 transition: slide-left
 favicon: /img/icon-512.webp
-defaults:
-  layout: center
 mdc: true
+layout: cover
+background: /intro.avif
 ---
 
-# Vienna.rb #65
+# Vienna.rb #66
 
-## The Ruby Autumn Meetup 🍂
+## The Ruby Christmas Meetup 🎄
 
 ---
 layout: image
@@ -21,12 +21,9 @@ image: /talks.webp
 ---
 
 ---
-layout: center
-class: bg-white
-backgroundSize: contain
+layout: image
+image: /rubyconf-austria.webp
 ---
-
-<img border="rounded" class="w-full h-100 object-contain" src="/img/rubyconf-austria.webp" alt="">
 
 ---
 layout: center
@@ -34,4 +31,4 @@ class: bg-white
 backgroundSize: contain
 ---
 
-![Platogo](/img/platogo.webp)
+![Sentry](/img/sentry.webp)
